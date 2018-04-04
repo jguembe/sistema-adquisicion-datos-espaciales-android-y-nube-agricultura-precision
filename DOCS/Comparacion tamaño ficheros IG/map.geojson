@@ -1,0 +1,19 @@
+{"type":"FeatureCollection","features":[
+  {"geometry":{
+    "coordinates":[-83.6823018,22.41341261,12.966529681075627],
+    "type":"Point"},
+  "properties":{
+    "humidity":75,
+    "temperature":29.1,
+    "time":"16:10:19_16-01-2018"},
+    "type":"Feature"},
+
+  {"geometry":{
+    "coordinates":[-83.68462191404787,22.414379833087523,17.731948986404035],
+    "type":"Point"},
+  "properties":{
+    "humidity":77,
+    "temperature":28.4,
+    "time":"16:10:50_16-01-2018"},
+    "type":"Feature"}
+]}

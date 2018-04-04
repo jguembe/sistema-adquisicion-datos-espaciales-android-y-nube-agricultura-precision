@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Placemark><ExtendedData><Data name="humidity"><value>75</value></Data>
+<Data name="temperature"><value>29.1</value></Data><Data name="time"><value>16:10:19_16-01-2018</value></Data>
+</ExtendedData><Point><coordinates>-83.6823018,22.41341261,12.966529681075627</coordinates></Point></Placemark><Placemark><ExtendedData><Data name="humidity"><value>77</value></Data>
+<Data name="temperature"><value>28.4</value></Data><Data name="time"><value>16:10:50_16-01-2018</value></Data>
+</ExtendedData><Point><coordinates>-83.68462191404787,22.414379833087523,17.731948986404035</coordinates></Point></Placemark>
+</Document>
+</kml>

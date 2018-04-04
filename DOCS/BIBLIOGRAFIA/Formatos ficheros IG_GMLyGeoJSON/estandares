@@ -1,0 +1,20 @@
+STANDARES
+-formato universal de intercambio de datos, GML (Geographic Markup Language)
+-comité técnico ISO/TC 211 sobre Geomática e Información Geográfic > serie ISO 19100 europeos
+-metadatos: 
+	“ISO/TS 19139-Geographic Information-Metadata – XML schema implementation”
+	“ISO/CD 19115-2 Geographic information- Metadata-Part 2: Extensions for imagery and gridded data
+
+•  Common SWE: modelos de datos y esquemas comunes
+• SensorML: modelos y esquemas de los sistemas de sensores y procesos a cerca de las
+mediciones
+•
+Las observaciones y mediciones (O & M): modelos y esquemas de datos de
+observación
+•
+Transductor Markup Language (TML): modelos y esquemas de multiplexación de
+datos de los sistemas de sensores
+
+Estándares  de los metadatos: CSDGM -> for the NSDI
+				GIDDM -> Europe
+				ISO211 -> OGC
