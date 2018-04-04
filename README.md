@@ -1,1 +1,3 @@
-# sistema-adquisicion-datos-espaciales-android-y-nube-agricultura-precision
+# Sistema de adquisición de datos espaciales mediante terminal Android y volcado en nube simulada.
+
+
