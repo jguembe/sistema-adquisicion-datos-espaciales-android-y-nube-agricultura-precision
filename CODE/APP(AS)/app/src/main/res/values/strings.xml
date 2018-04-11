@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Allinonev3</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sensorcontrol">Sensor control</string>
+    <string name="welcome">Welcome to this app! </string>
+    <string name="search_beewi">Search beewi sensor</string>
+    <string name="meassurements">Meassurements</string>
+</resources>
